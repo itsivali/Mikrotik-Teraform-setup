@@ -49,8 +49,8 @@ All resources are defined as reusable modules:
 
 1. **Clone the repository**
    ```powershell
-   git clone <repo-url>
-   cd Mikrotik-Teraaform setup
+   git clone https://github.com/itsivali/Mikrotik-Teraform-setup.git
+   cd Mikrotik-Teraform-setup
    ```
 
 2. **Authenticate with Azure**
